@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Anton:ital,wght@0,100;1,300&display=swap');
+
+.navbar {
+  background-color: #ffffff;
+  color: white;
+  display: flex;
+  justify-content: left;
+  padding-left: 15px;
+  align-items: center;
+  height: 60px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); 
+}
+
+.brand {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: black;
+  font-family: 'Inter', cursive;
+}
